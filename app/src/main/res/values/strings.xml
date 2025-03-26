@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Brutal Step</string>
+
+    //titles
+    <string name="MainScreenTitle">TODAY\'S STATS</string>
+    <string name="SettingTitle">USER\'S SETTINGS</string>
+    <string name="WeekStatsTitle">WEEKLY STATS</string>
+
+    //navigation
+    <string name="MainScreenNav">Today</string>"
+    <string name="SettingsNav">Settings</string>
+    <string name="WeekStatsNav">Week</string>
+
+    //settings screen text
+    <string name="SettingsHeight">Enter Your Height</string>
+    <string name="SettingsWeight">Enter Your Weight</string>
+    <string name="SettingsGoal">Enter Your Daily Goal</string>"
+
+    //main screen text
+    <string name="MainScreenSteps">STEPS TODAY</string>
+    <string name="MainScreenCalories">CALORIES BURNED TODAY</string>"
+    <string name="MainScreenDistance">KILOMETERS WALKED TODAY</string>
+    <string name="MainScreenQuestion">QUESTION: WHY SO SLOW?</string>
+
+    //week screen text
+    <string name="WeekScreenSteps">TOTAL STEPS THIS WEEK</string>"
+    <string name="WeekScreenCalories">CALORIES BURNED THIS WEEK</string>
+    <string name="WeekGoalReached">TIMES GOAL REACHED</string>
+
 </resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brutal Step</string>
+    <string name="MainScreenTitle">СТАТА ЗА СЕГОДНЯ</string>
+    <string name="SettingTitle">НАСТРОЙКИ</string>
+    <string name="WeekStatsTitle">СТАТА ЗА НЕДЕЛЮ</string>
+    <string name="MainScreenNav">Сегодня</string>
+    <string name="SettingsNav">Настройки</string>
+    <string name="WeekStatsNav">Неделя</string>
+    <string name="SettingsHeight">Введи Свой Рост</string>
+    <string name="SettingsWeight">Введи Свой Вес</string>
+    <string name="SettingsGoal">Цель Шагов В День</string>
+    <string name="MainScreenSteps">ШАГОВ ЗА СЕГОДНЯ</string>
+    <string name="MainScreenCalories">МИНУС КАЛОРИЙ СЕГОДНЯ</string>
+    <string name="MainScreenDistance">КИЛОМЕТРОВ ПРОЙДЕНО</string>
+    <string name="MainScreenQuestion">ВОПРОС: ЧЁ ТАК МЕДЛЕННО?</string>
+    <string name="WeekScreenSteps">ВСЕГО ШАГОВ ЗА НЕДЕЛЮ</string>
+    <string name="WeekScreenCalories">МИНУС КАЛОРИЙ ЗА НЕДЕЛЮ</string>
+    <string name="WeekGoalReached">РАЗ ЦЕЛЬ ВЫПОЛНЕНА</string>
+</resources>

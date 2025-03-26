@@ -2,10 +2,18 @@ package com.karkat.brutalstep.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+//Light
+val LightPrimaryText = Color(0xFF191919)
+val LightBackground = Color(0xFFFDFDFD)
+val LightAccent = Color(0xFFD01642)
+val LightProgressBackground = Color(0xFFF0F0F0)
+val LightProgressForeground = Color(0xFFD01642)
+val LightAccentBox = Color(0xFFC1C1C1)
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+//Dark
+val DarkPrimaryText = Color(0xFFFDFDFD)
+val DarkBackground = Color(0xFF262626)
+val DarkAccent = Color(0xFFD01642)
+val DarkProgressBackground = Color(0xFF5D5D5D)
+val DarkProgressForeground = Color(0xFFD01642)
+val DarkAccentBox = Color(0xFF212121)
