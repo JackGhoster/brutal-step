@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId = "com.karkat.brutalstep"
-        minSdk = 24
+        minSdk = 34
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -39,6 +39,8 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+
     buildFeatures {
         compose = true
     }
@@ -53,7 +55,11 @@ android {
 }
 
 dependencies {
-//    Room integration
+implementation(libs.androidx.hilt.common)
+    implementation(libs.androidx.work.runtime.ktx)
+    implementation(libs.firebase.components)
+    implementation(libs.androidx.hilt.work)
+    //    Room integration
     val room_version = "2.6.1"
     implementation("androidx.room:room-runtime:$room_version")
     ksp("androidx.room:room-compiler:$room_version")
